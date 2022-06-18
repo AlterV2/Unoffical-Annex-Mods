@@ -12,3 +12,6 @@ Print settings
 infill 60% grid
 
 Abs or ASA filament
+
+![LGX mount](https://user-images.githubusercontent.com/77366129/174452631-c76049cb-088c-4f65-8305-262d17ff9ed2.PNG)
+
