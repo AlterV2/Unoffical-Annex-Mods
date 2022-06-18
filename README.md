@@ -9,4 +9,6 @@ Print settings
 
 0.2 Layer height
 
+infill 60% grid
+
 Abs or ASA filament
