@@ -1,4 +1,7 @@
-3d printed LGX lite mount should fit both K1 and K2. 
+3d printed LGX lite mount should fit both K1 and K2.  
+
+Updated version of the mount I'm currently using. I made it slightly thicker and reduced the chamfer for better printability.
+
 
 Print settings
 
