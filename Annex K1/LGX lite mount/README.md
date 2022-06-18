@@ -8,4 +8,5 @@ Print settings
 
 infill 60% grid
 
-![LGX mount](https://user-images.githubusercontent.com/77366129/174455809-4b81469d-7e82-4d7c-8fc2-f007108061c4.PNG)
+![LGX 3dp](https://user-images.githubusercontent.com/77366129/174455857-27d723e6-26b5-4e18-8ead-f98bb974b0a4.PNG)
+
